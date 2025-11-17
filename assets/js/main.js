@@ -11,9 +11,4 @@ open_nav.addEventListener("click" , ()=>{
 close_nav.addEventListener("click" , ()=>{
     list.classList.remove("active");
 })
-/*===== MENU SHOW =====*/
-/* Validate if constant exists */
 
-
-/*===== MENU HIDDEN =====*/
-/* Validate if constant exists */
